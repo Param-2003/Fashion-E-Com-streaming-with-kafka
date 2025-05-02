@@ -1,0 +1,20 @@
+fashion-retail-insights/
+├── data/
+│   └── Fashion_Retail_Sales.csv
+│
+├── notebooks/
+│   └── retail_analysis.ipynb     ✅ main deliverable
+│
+├── visualizations/
+│   ├── revenue_by_payment.png
+│   ├── monthly_sales_heatmap.png
+│   ├── product_ratings_hist.png
+│   └── markdown_kafka_simulation.md   ✅ Simulated Kafka architecture
+│
+├── output/
+│   └── cleaned_data.parquet
+│
+├── .gitignore
+├── requirements.txt
+├── LICENSE
+└── README.md
